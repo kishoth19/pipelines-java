@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kishothk01/demo/_apis/build/status/demo-Maven-CI?repoName=kishoth19%2Fpipelines-java&branchName=master)](https://dev.azure.com/kishothk01/demo/_build/latest?definitionId=5&repoName=kishoth19%2Fpipelines-java&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
